@@ -1,5 +1,5 @@
 # Online Code Editor 
-Hosted On : https://qr-playground.netlify.app
+Hosted On : playground-code.netlify.app
 
 ![image](https://github.com/user-attachments/assets/7d6a12c4-83e2-4f31-97ac-c90905680d04)
 
